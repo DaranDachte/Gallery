@@ -19,7 +19,7 @@ const Gallery = () => {
   };
 
   return (
-    <div className={styles.container}>
+    <div className={styles.container} onClick={()=> setActiveCardIndex(0)}>
       <Card
         text={`5.Mikhail Baryshnikov
 Born January 28, 1948, is a Soviet Latvian-born Russian-American dancer, choreographer, and actor. He was the preeminent male classical dancer of the 1970s and 1980s. He subsequently became a noted dance director.
