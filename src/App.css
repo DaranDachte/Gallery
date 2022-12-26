@@ -1,0 +1,10 @@
+.wrapperGallrey{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  height: 100vh;
+  width: 1250px;
+  border: 2px solid gray;
+  margin:50px;
+}
