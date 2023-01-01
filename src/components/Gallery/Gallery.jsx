@@ -19,9 +19,13 @@ const Gallery = () => {
   };
 
   return (
-    <div className={styles.container}>
+    <div
+      className={styles.container}
+      onClick={() => setActiveCardIndex(0)}
+      onDoubleClick={() => setActiveCardIndex(false)}
+    >
       <Card
-        text={`5.Mikhail Baryshnikov
+        text={`.Mikhail Baryshnikov
 Born January 28, 1948, is a Soviet Latvian-born Russian-American dancer, choreographer, and actor. He was the preeminent male classical dancer of the 1970s and 1980s. He subsequently became a noted dance director.
 On June 29, 1974, in Toronto while on tour with the Bolshoi, Baryshnikov defected, requesting political asylum in Canada. As recalled by John Frazer, a ballet critic from Toronto who helped Baryshnikov to escape, Frazer wrote down phone numbers of people on a small piece of paper and hid it under his wedding ring. At a banquet after one show he managed to distract the KGB officer who followed Baryshnikov as an interpreter and gave Baryshnikov the paper.Soon he joined the National Ballet of Canada for a brief time in a guest role. He also announced that he would not return to the USSR. He later said that Christina Berlin, an American friend, helped engineer his defection during his 1970 tour of London. His first televised performance after coming out of temporary seclusion in Canada was with the National Ballet of Canada in La Sylphide. He then went to the United States. In December 1975, he and his dance partner Natalia Makarova featured prominently in an episode of the BBC television series Arena.
 In the first two years after his defection, he danced for no fewer than 13 different choreographers, including Jerome Robbins, Glen Tetley, Alvin Ailey, and Twyla Tharp. "It doesn't matter if every ballet is a success or not", he told New York Times dance critic Anna Kisselgoff in 1976. "The new experience gives me a lot." He cited his fascination with the ways Ailey mixed classical and modern technique and his initial discomfort when Tharp insisted he incorporate eccentric personal gestures in dance.`}
