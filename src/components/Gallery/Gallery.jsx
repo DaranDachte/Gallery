@@ -36,7 +36,7 @@ In the first two years after his defection, he danced for no fewer than 13 diffe
       />
       <Card
         text={`Niels Bohr
-7 October 1885  - 18 November 1962) was a Danish physicist who made foundational contributions to understanding atomic structure and quantum theory, for which he received the Nobel Prize in Physics in 1922. Bohr was also a philosopher and a promoter of scientific research.
+7 October 1885  - 18 November 1962. Was a Danish physicist who made foundational contributions to understanding atomic structure and quantum theory, for which he received the Nobel Prize in Physics in 1922. Bohr was also a philosopher and a promoter of scientific research.
 
 Bohr developed the Bohr model of the atom, in which he proposed that energy levels of electrons are discrete and that the electrons revolve in stable orbits around the atomic nucleus but can jump from one energy level (or orbit) to another. Although the Bohr model has been supplanted by other models, its underlying principles remain valid. He conceived the principle of complementarity: that items could be separately analysed in terms of contradictory properties, like behaving as a wave or a stream of particles. The notion of complementarity dominated Bohr's thinking in both science and philosophy.
 
@@ -50,7 +50,7 @@ During the 1930s, Bohr helped refugees from Nazism. After Denmark was occupied b
       />
       <Card
         text={`Luis Buñuel
- 22 February 1900 – 29 July 1983. Was a Spanish-Mexican  filmmaker  who worked in France, Mexico, and Spain. He has been widely considered by many film critics, historians, and directors to be one of the greatest and most influential filmmakers of all time.
+ 22 February 1900 - 29 July 1983. Was a Spanish-Mexican  filmmaker  who worked in France, Mexico, and Spain. He has been widely considered by many film critics, historians, and directors to be one of the greatest and most influential filmmakers of all time.
 When Buñuel died at age 83, his obituary in The New York Times called him "an iconoclast, moralist, and revolutionary who was a leader of avant-garde surrealism in his youth and a dominant international movie director half a century later". His first picture, Un Chien Andalou—made in the silent era—is still viewed regularly throughout the world and retains its power to shock the viewer,  and his last film, That Obscure Object of Desire—made 48 years later—won him Best Director awards from the National Board of Review and the National Society of Film Critics. Writer Octavio Paz called Buñuel's work "the marriage of the film image to the poetic image, creating a new reality...scandalous and subversive".
 Seven of Buñuel's films are included in Sight & Sound's 2012 critics' poll of the top 250 films of all time. Fifteen of his films are included in the They Shoot Pictures, Don't They? list of the 1,000 greatest films of all time, second only to Jean-Luc Godard, with sixteen, and he ranks number 13 on their list of the top 250 directors.
 
@@ -74,7 +74,7 @@ In 1933, while Einstein was visiting the United States, Adolf Hitler came to pow
       />
       <Card
         text={`Sigmund Freud
-6 May 1856 – 23 September 1939.
+6 May 1856 - 23 September 1939.
 Was an Austrian neurologist and the founder of psychoanalysis, a clinical method for evaluating and treating pathologies explained as originating in conflicts in the psyche, through dialogue between a patient and a psychoanalyst.
 Freud was born to Galician Jewish parents in the Moravian town of Freiberg, in the Austrian Empire. He qualified as a doctor of medicine in 1881 at the University of Vienna.  Upon completing his habilitation in 1885, he was appointed a docent in neuropathology and became an affiliated professor in 1902. Freud lived and worked in Vienna, having set up his clinical practice there in 1886. In 1938, Freud left Austria to escape Nazi persecution. He died in exile in the United Kingdom in 1939.
 In founding psychoanalysis, Freud developed therapeutic techniques such as the use of free association and discovered transference, establishing its central role in the analytic process. Freud's redefinition of sexuality to include its infantile forms led him to formulate the Oedipus complex as the central tenet of psychoanalytical theory. His analysis of dreams as wish-fulfillments provided him with models for the clinical analysis of symptom formation and the underlying mechanisms of repression. On this basis, Freud elaborated his theory of the unconscious and went on to develop a model of psychic structure comprising id, ego and super-ego. Freud postulated the existence of libido, sexualised energy with which mental processes and structures are invested and which generates erotic attachments, and a death drive, the source of compulsive repetition, hate, aggression, and neurotic guilt.  In his later works, Freud developed a wide-ranging interpretation and critique of religion and culture.
@@ -86,7 +86,7 @@ Though in overall decline as a diagnostic and clinical practice, psychoanalysis 
       />
       <Card
         text={`Victor Hugo
-26 February 1802 – 22 May 1885
+26 February 1802 - 22 May 1885.
 Was a French Romantic writer and politician. During a literary career that spanned more than sixty years, he wrote in a variety of genres and forms. He is considered to be one of the greatest French writers of all time.
 His most famous works are the novels The Hunchback of Notre-Dame (1831) and Les Misérables (1862). In France, Hugo is renowned for his poetry collections, such as Les Contemplations (The Contemplations) and La Légende des siècles (The Legend of the Ages). Hugo was at the forefront of the Romantic literary movement with his play Cromwell and drama Hernani. Many of his works have inspired music, both during his lifetime and after his death, including the opera Rigoletto and the musicals Les Misérables and Notre-Dame de Paris. He produced more than 4,000 drawings in his lifetime, and campaigned for social causes such as the abolition of capital punishment.
 Though he was a committed royalist when young, Hugo's views changed as the decades passed, and he became a passionate supporter of republicanism serving in politics as both deputy and senator. His work touched upon most of the political and social issues and the artistic trends of his time. His opposition to absolutism and his literary stature established him as a national hero. He was honoured by interment in the Panthéon. `}
@@ -97,7 +97,7 @@ Though he was a committed royalist when young, Hugo's views changed as the decad
       />
       <Card
         text={`Fritz Lang
-December 5, 1890 – August 2, 1976
+December 5, 1890 - August 2, 1976.
 Was an Austrian film director, screenwriter, and producer who worked in Germany and later the United States. One of the best-known émigrés from Germany's school of Expressionism, he was dubbed the "Master of Darkness" by the British Film Institute. He has been cited as one of the most influential filmmakers of all time.
 
 Lang's most celebrated films include the groundbreaking futuristic Metropolis (1927) and the influential M (1931), a film noir precursor. His 1929 film Woman in the Moon showcased the use of a multi-stage rocket, and also pioneered the concept of a rocket launch pad (a rocket standing upright against a tall building before launch having been slowly rolled into place) and the rocket-launch countdown clock. His other major films include Dr. Mabuse the Gambler (1922), Die Nibelungen (1924), and after moving to Hollywood in 1934, Fury (1936), You Only Live Once (1937), Hangmen Also Die! (1943), The Woman in the Window (1944), Scarlet Street (1945) and The Big Heat (1953). He became a naturalized citizen of the United States in 1939. `}
@@ -108,8 +108,7 @@ Lang's most celebrated films include the groundbreaking futuristic Metropolis (1
       />
       <Card
         text={`Marlene Dietrich
-27 December 1901 - 6 May 1992
-was a German-born American actress and singer whose career spanned from the 1910s to the 1980s.
+27 December 1901 - 6 May 1992. Was a German-born American actress and singer whose career spanned from the 1910s to the 1980s.
 
 In 1920s Berlin, Dietrich performed on the stage and in silent films. Her performance as Lola-Lola in Josef von Sternberg's The Blue Angel (1930) brought her international acclaim and a contract with Paramount Pictures. She starred in many Hollywood films, including six iconic roles directed by Sternberg: Morocco (1930) (her only Academy Award nomination), Dishonored (1931), Shanghai Express and Blonde Venus (both 1932), The Scarlet Empress (1934) and The Devil Is a Woman (1935), Desire (1936) and Destry Rides Again (1939). She successfully traded on her glamorous persona and exotic looks, and became one of the era's highest-paid actresses. Throughout World War II she was a high-profile entertainer in the United States. Although she delivered notable performances in several post-war films, including Billy Wilder's A Foreign Affair (1948), Alfred Hitchcock's Stage Fright (1950), Billy Wilder's Witness for the Prosecution (1957), Orson Welles's Touch of Evil (1958) and Stanley Kramer's Judgment at Nuremberg (1961), she spent most of the 1950s to the 1970s touring the world as a marquee live-show performer.
 
@@ -121,8 +120,8 @@ Dietrich was known for her humanitarian efforts during World War II, housing Ger
       />
       <Card
         text={`Vangelis
-29 March 1943 – 17 May 2022
-was a Greek composer and arranger of electronic, progressive, ambient, and classical orchestral music. He was best known for his Academy Award-winning score to Chariots of Fire (1981), as well as for composing scores to the films Blade Runner (1982), Missing (1982), Antarctica (1983), The Bounty (1984), 1492: Conquest of Paradise (1992), and Alexander (2004), and for the use of his music in the 1980 PBS documentary series Cosmos: A Personal Voyage by Carl Sagan.
+29 March 1943 - 17 May 2022.
+Was a Greek composer and arranger of electronic, progressive, ambient, and classical orchestral music. He was best known for his Academy Award-winning score to Chariots of Fire (1981), as well as for composing scores to the films Blade Runner (1982), Missing (1982), Antarctica (1983), The Bounty (1984), 1492: Conquest of Paradise (1992), and Alexander (2004), and for the use of his music in the 1980 PBS documentary series Cosmos: A Personal Voyage by Carl Sagan.
 
 In 1968, the 25-year-old Vangelis wished to further his career and, amidst the political turmoil surrounding the 1967 coup, left Greece for London. He was denied entry into the UK and settled in Paris for the next six years. `}
         photo={Vangelis}
